@@ -1,0 +1,2 @@
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\ModbusTest\Debug\ModbusTest.exe
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\ModbusTest\Debug\ModbusTest.pdb

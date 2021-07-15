@@ -1,0 +1,9 @@
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\bin\Debug\Modbus.exe.config
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\bin\Debug\Modbus.exe
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\bin\Debug\Modbus.pdb
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\obj\Debug\Modbus.csprojAssemblyReference.cache
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\obj\Debug\Modbus.Properties.Resources.resources
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\obj\Debug\Modbus.csproj.GenerateResource.cache
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\obj\Debug\Modbus.exe
+E:\8H_work\外包项目\进行中-称重变送器项目YZC500KG\Modbus\obj\Debug\Modbus.pdb
